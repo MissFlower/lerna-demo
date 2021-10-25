@@ -2,12 +2,16 @@
   "name": "lerna-demo",
   "private": true,
   "scripts": {
-
+    "dev": "esbuild src/index.js --bundle --format=cjs --platform=node --outdir=/dist/index.js --watch"
   },
   "workspaces": [
     "packages/*"
   ],
   "devDependencies": {
+    "esbuild": "^0.13.9",
     "lerna": "^4.0.0"
+  },
+  "dependencies": {
+    "ady-demo-a": "0.0.10"
   }
 }
