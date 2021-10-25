@@ -1,5 +1,5 @@
 {
-  "name": "demo-b",
+  "name": "ady-demo-b",
   "version": "0.0.10",
   "description": "> TODO: description",
   "author": "DoveyLoveyCora <DoveyLoveyCora@163.com>",
@@ -22,5 +22,5 @@
   "devDependencies": {
     "esbuild": "^0.13.9"
   },
-  "gitHead": "81642a9697748bd5bffefe47a457fd16e0e70ade"
+  "gitHead": "e13cb0eb4af43750e3d0e8ca6f3a7063889898f2"
 }

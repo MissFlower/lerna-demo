@@ -7,8 +7,7 @@
   "license": "ISC",
   "main": "src/index.js",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.org/"
+    "access": "public"
   },
   "directories": {
     "lib": "lib",
@@ -20,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "81642a9697748bd5bffefe47a457fd16e0e70ade"
+  "gitHead": "e13cb0eb4af43750e3d0e8ca6f3a7063889898f2"
 }
