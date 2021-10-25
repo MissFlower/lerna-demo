@@ -8,7 +8,7 @@
   "main": "src/index.js",
   "publishConfig": {
     "access": "public",
-    "registry": "https://github.com/MissFlower/lerna-demo.git"
+    "registry": "https://www.npmjs.com/"
   },
   "directories": {
     "lib": "lib",
@@ -20,5 +20,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "8ab573193e7e71df9d83f258e8c986f36c2ec25e"
+  "gitHead": "f3e609042dd8c9c6a14cb3450e3b4429cf1f0e0b"
 }
