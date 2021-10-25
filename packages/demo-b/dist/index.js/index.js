@@ -1,7 +1,7 @@
 // ../demo-a/src/index.js
 "use strict";
 function createName(name1, name2) {
-  return name1 + name2 + " end";
+  return name1 + name2 + " end2";
 }
 var src_default = createName;
 
