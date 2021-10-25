@@ -1,6 +1,6 @@
 {
   "name": "demo-b",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "> TODO: description",
   "author": "DoveyLoveyCora <DoveyLoveyCora@163.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "dev": "esbuild src/index.js --bundle --format=cjs --platform=node --outdir=dist/index.js --watch"
   },
   "dependencies": {
-    "demo-a": "^0.0.4"
+    "demo-a": "^0.0.5"
   },
   "devDependencies": {
     "esbuild": "^0.13.9"
