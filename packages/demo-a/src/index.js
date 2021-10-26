@@ -9,6 +9,6 @@
 'use strict'
 
 function createName(name1, name2) {
-  return name1 + name2 + '!'
+  return name1 + name2 + '!13'
 }
 export default createName
