@@ -15,5 +15,5 @@
       "ignore": "component-*",
       "npmClientArgs": ["--no-package-lock"]
     }
-  },
+  }
 }
