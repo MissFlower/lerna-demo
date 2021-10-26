@@ -1,6 +1,6 @@
 {
   "name": "ady-demo-b",
-  "private": true,
+  "private": false,
   "version": "0.0.14",
   "description": "> TODO: description",
   "author": "DoveyLoveyCora <DoveyLoveyCora@163.com>",
